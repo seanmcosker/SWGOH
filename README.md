@@ -2,7 +2,7 @@
 Various projects relating to the EA mobile game Star Wars Galaxy of Heroes
 
 
-Twitter Webscraping and SWGOH
+SWGOH Sentiment Analysis: Twitter Webscraping 
 
 This mini-project of mine involves using Twitter's API to scrape tweets about an EA mobile game, Star Wars Galaxy of Heroes (SWGOH, for short). The game involves battling against other players using a team of Star Wars characters the player must obtain through farming or in-app purchases. The game is free to play with a variety of microtransactions offered.
 
